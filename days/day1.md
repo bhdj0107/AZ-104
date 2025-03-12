@@ -65,13 +65,13 @@ Microsoft Entra ID 계정 :
 
 #### Entra ID > Device ID 종류
 
-    |등록 디바이스|조인 디바이스|하이브리드 조인 디바이스|
-    |---|---|---|
-    |BYOD 지원 (Bring-Your-Own-Device)|클라우드 우선 또는 클라우드 전용, 조직용|Active Directory 컴퓨터 인증을 사용하는 디바이스에 Win32 앱을 배포한 경우|
-    |등록된 디바이스는 Microsoft 계정을 사용하여 로그인함|조직 소유 디바이스|계속해서 그룹 정책을 사용하여 디바이스를 관리하려는 경우|
-    |리소스 액세스 권한을 부여하는 Entra ID 계정에 연결됨|Entra ID에만 조인됨 - 조직 계정이 필요함|기존 이미지 솔루션을 사용하여 디바이스를 배포하려는|
-    |Microsoft Intune과 같은 MDM(Mobile Device Management) 도구를 사용하여 제어|조건부 액세스 정책을 사용할 수 있음||
-    |OS - Window 10 이상, iOS, Android, MacOS|OS - Windows 10 이상 디바이스|OS - Windows 7 이상 디바이스|
+|등록 디바이스|조인 디바이스|하이브리드 조인 디바이스|
+|---|---|---|
+|BYOD 지원 (Bring-Your-Own-Device)|클라우드 우선 또는 클라우드 전용, 조직용|Active Directory 컴퓨터 인증을 사용하는 디바이스에 Win32 앱을 배포한 경우|
+|등록된 디바이스는 Microsoft 계정을 사용하여 로그인함|조직 소유 디바이스|계속해서 그룹 정책을 사용하여 디바이스를 관리하려는 경우|
+|리소스 액세스 권한을 부여하는 Entra ID 계정에 연결됨|Entra ID에만 조인됨 - 조직 계정이 필요함|기존 이미지 솔루션을 사용하여 디바이스를 배포하려는|
+|Microsoft Intune과 같은 MDM(Mobile Device Management) 도구를 사용하여 제어|조건부 액세스 정책을 사용할 수 있음||
+|OS - Window 10 이상, iOS, Android, MacOS|OS - Windows 10 이상 디바이스|OS - Windows 7 이상 디바이스|
 
 #### 셀프 서비스 암호 재설정
     
