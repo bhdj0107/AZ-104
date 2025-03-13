@@ -1,7 +1,7 @@
 AZ-104 Day #1
 ===================
 
-#### Notes
+### Notes
 - 자료 공유 (Onedrive)
     > https://1drv.ms/u/s!AmlADRmU8M8uk_Zx845G11GdHVqp1A?e=QluzWB
 
